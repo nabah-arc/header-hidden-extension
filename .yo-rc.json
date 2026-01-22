@@ -1,0 +1,22 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "20.19.4",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "hidden-extension",
+    "libraryId": "a0e174e4-b95d-44a3-bebc-c6b215837acd",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "hiddenExtension",
+    "solutionShortDescription": "hiddenExtension description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
