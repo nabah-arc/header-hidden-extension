@@ -4,7 +4,7 @@
   "https": true,
   "serveConfigurations": {
     "default": {
-      "pageUrl": "https://{tenantDomain}/SitePages/myPage.aspx",
+      "pageUrl": "https://alrafayconsulting.sharepoint.com/sites/BIT-Tracker/_layouts/15/workbench.aspx",
       "customActions": {
         "93a75e61-da6f-4230-8d13-5c2513ff5ada": {
           "location": "ClientSideExtension.ApplicationCustomizer",
@@ -15,7 +15,7 @@
       }
     },
     "hiddenExtension": {
-      "pageUrl": "https://{tenantDomain}/SitePages/myPage.aspx",
+      "pageUrl": "https://alrafayconsulting.sharepoint.com/sites/BIT-Tracker/_layouts/15/workbench.aspx",
       "customActions": {
         "93a75e61-da6f-4230-8d13-5c2513ff5ada": {
           "location": "ClientSideExtension.ApplicationCustomizer",
